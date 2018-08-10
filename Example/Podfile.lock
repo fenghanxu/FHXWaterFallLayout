@@ -1,0 +1,16 @@
+PODS:
+  - FHXWaterFallLayout (0.1.0)
+
+DEPENDENCIES:
+  - FHXWaterFallLayout (from `../`)
+
+EXTERNAL SOURCES:
+  FHXWaterFallLayout:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXWaterFallLayout: cb8acd75e17f1e6f2f38990ca2706278c752f747
+
+PODFILE CHECKSUM: 86ddcfcecf756ad7f5b43d47ce31049be968424a
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXWaterFallLayout_Example' do
+  pod 'FHXWaterFallLayout', :path => '../'
+
+  target 'FHXWaterFallLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
